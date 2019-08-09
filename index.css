@@ -1,0 +1,44 @@
+body
+{
+   background-color: gray;
+   margin: 0;
+}
+.container
+{
+    width: 500px;
+    margin: auto;
+}
+#title
+{
+    background: white;
+    width: 100%;
+    text-align: center;
+    padding: 1px;
+    margin: 1px;
+}
+#post
+{
+    background: white;
+    margin-top:20px;
+}
+#post-header
+{
+    padding: 10px;
+    display: flex;
+    width: 100%;
+}
+#post-header-left
+{
+    background: white;
+    width: 150%;
+}
+#post-header-right
+{
+    width: 18%;
+    float: right;
+    color: gray;
+}
+#post-text
+{
+    padding: 5px;
+}
